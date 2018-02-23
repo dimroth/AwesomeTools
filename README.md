@@ -22,6 +22,9 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Mocky](https://www.mocky.io/) - Easily test your REST-powered web services with an HTTP responses generator
 * [Regexr](https://regexr.com/), [Regex101](https://regex101.com/) - Regex validator / tutorials
 * [CodeSandbox](https://codesandbox.io/) - The online code editor for React
+* [JSONPlaceholder](https://jsonplaceholder.typicode.com/) - Generate templated JSON responses
+
+### IDE
 
 ### Others
 
