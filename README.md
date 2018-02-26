@@ -26,6 +26,10 @@ I have gathered this list of links over time, and it is made of resources I have
 
 ### IDE
 
+### Generators
+
+* [Real Favicon Generator](https://realfavicongenerator.net/) - Easy generation of favicons
+
 ### Others
 
 * [IFTTT](https://ifttt.com/) - Applets linked to the services you love
