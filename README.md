@@ -30,6 +30,11 @@ I have gathered this list of links over time, and it is made of resources I have
 
 * [Real Favicon Generator](https://realfavicongenerator.net/) - Easy generation of favicons
 
+
+### SEO
+
+* [Spyfu](https://www.spyfu.com), [Semrush](https://www.semrush.com/) - Spy competitors SEO
+
 ### Others
 
 * [IFTTT](https://ifttt.com/) - Applets linked to the services you love
