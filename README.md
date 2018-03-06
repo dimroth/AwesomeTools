@@ -13,6 +13,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Coloors.io](https://coolors.co/) - Super fast color schemes generator
 * [Type Scale](https://type-scale.com/) - Generate type scale by determining ratio
 * [Fresh Gradients](https://webgradients.com/) - Need beautiful selected gradients ?
+* [Loading status](https://loading.io/) - Loading SVG, GIF, PNG... templates
 
 ### Development tooling
 
