@@ -38,6 +38,10 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Spyfu](https://www.spyfu.com), [Semrush](https://www.semrush.com/) - Spy competitors SEO
 * [RankBrain Guide](https://backlinko.com/google-rankbrain-seo) - Google RankBrain Guide
 
+### Social MEdia
+
+* [Tailles covers](http://deux.io/tailles-images-facebook-etc/) - Article mis à jour fréquemment
+
 ### Awesome Things
 
 * [Style systems](https://github.com/alexpate/awesome-design-systems)
