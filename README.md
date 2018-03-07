@@ -14,6 +14,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Type Scale](https://type-scale.com/) - Generate type scale by determining ratio
 * [Fresh Gradients](https://webgradients.com/) - Need beautiful selected gradients ?
 * [Loading status](https://loading.io/) - Loading SVG, GIF, PNG... templates
+* [Canvas System](https://canvas.hubspot.com/) - Using documentation to cultivate co-ownership between design and development
 
 ### Development tooling
 
