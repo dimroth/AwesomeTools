@@ -42,6 +42,10 @@ I have gathered this list of links over time, and it is made of resources I have
 
 * [Tailles covers](http://deux.io/tailles-images-facebook-etc/) - Article mis à jour fréquemment
 
+### Productivity
+
+* [Word to HTML](https://wordhtml.com/) - Copy paste from Google Doc
+
 ### Awesome Things
 
 * [Style systems](https://github.com/alexpate/awesome-design-systems)
