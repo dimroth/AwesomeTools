@@ -44,7 +44,7 @@ I have gathered this list of links over time, and it is made of resources I have
 
 ### Productivity
 
-* [Word to HTML](https://wordhtml.com/) - Copy paste from Google Doc
+* [Word to HTML](https://wordtohtml.net/) - Copy paste from Google Doc
 
 ### Awesome Things
 
