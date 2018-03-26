@@ -46,6 +46,10 @@ I have gathered this list of links over time, and it is made of resources I have
 
 * [Word to HTML](https://wordtohtml.net/) - Copy paste from Google Doc
 
+### Testing
+
+* [PingDom](https://tools.pingdom.com/) - Test ping, requests, loading time
+
 ### Awesome Things
 
 * [Style systems](https://github.com/alexpate/awesome-design-systems)
