@@ -6,6 +6,7 @@ I have gathered this list of links over time, and it is made of resources I have
 
 * [Unsplash](https://unsplash.com/), [Pexels](https://pexels.com/) - Collection of beautiful, high resolution, free (and free of rights) images
 * [Carbon](https://carbon.now.sh/) - Create and share beautiful images of your source code
+* [Vector Logo](https://worldvectorlogo.com/) - Might find what you're desperately looking for
 * [Fontstorage](https://fontstorage.com/), [FontSquirrel](https://www.fontsquirrel.com) - Collection of free fonts for your websites and designs
 * [TheNounProject](https://thenounproject.com/) - Endless collection of icons (credit required)
 * [Amp-What](http://www.amp-what.com/) - A quick, interactive reference of 14,500 HTML character entities
