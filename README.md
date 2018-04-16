@@ -57,7 +57,7 @@ I have gathered this list of links over time, and it is made of resources I have
 
 ### Mails
 
-*[Really Good Emails](https://reallygoodemails.com/) - Really good emails to get inspiration and templates
+* [Really Good Emails](https://reallygoodemails.com/) - Really good emails to get inspiration and templates
 
 ### Others
 
