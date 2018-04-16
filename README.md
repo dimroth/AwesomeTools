@@ -55,6 +55,10 @@ I have gathered this list of links over time, and it is made of resources I have
 
 * [Style systems](https://github.com/alexpate/awesome-design-systems)
 
+### Mails
+
+*[Really Good Emails](https://reallygoodemails.com/) - Really good emails to get inspiration and templates
+
 ### Others
 
 * [IFTTT](https://ifttt.com/) - Applets linked to the services you love
