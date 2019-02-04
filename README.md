@@ -412,6 +412,12 @@ I have gathered this list of links over time, and it is made of resources I have
 
 ## Blog posts
 
+### UX / Design
+* [UX in Motion Manifesto](https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc)
+
+### Backend
+* [Best Practices for Node error handling](https://goldbergyoni.com/checklist-best-practices-of-node-js-error-handling/)
+
 ### Software insights
 
 * [Buggy Software, Loyal Users: Why Bug Reporting is Key To User Retention](https://dev.to/itamarst/buggy-software-loyal-users-why-bug-reporting-is-key-to-user-retention)
