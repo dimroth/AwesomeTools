@@ -17,6 +17,9 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Loading status](https://loading.io/) - Loading SVG, GIF, PNG... templates
 * [Canvas System](https://canvas.hubspot.com/) - Using documentation to cultivate co-ownership between design and development
 * [SVG Data URI Optimizer](https://yoksel.github.io/url-encoder/) - Nice utility to set nice optimized svg backgrounds
+* [Flowbase](https://www.flowbase.co/) - The best curated collection of webflow cloneable assets, templates and guides
+* [Checklist Design](https://www.checklist.design/) - A collection of the best UX and UI practices
+* [ReallyGoodUX](https://www.reallygoodux.io/) - Inspiring UX, straight to your inbox
 
 ### Development tooling
 
