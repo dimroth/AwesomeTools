@@ -27,6 +27,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Regexr](https://regexr.com/), [Regex101](https://regex101.com/) - Regex validator / tutorials
 * [CodeSandbox](https://codesandbox.io/) - The online code editor for React
 * [JSONPlaceholder](https://jsonplaceholder.typicode.com/) - Generate templated JSON responses
+* [ES6Console](https://es6console.com/) - Try latest ES features online (👍 for algorithms)
 
 ### IDE
 
@@ -89,6 +90,11 @@ I have gathered this list of links over time, and it is made of resources I have
 ## Node
 
 * [Node best practices](https://github.com/i0natan/nodebestpractices) - The largest Node.JS best practices list. Curated from the top ranked articles and always updated
+
+## Maps
+
+* [MapBox](https://www.mapbox.com) - Alternative to Google Maps API n°1
+* [Here](https://www.here.com/) - Alternative to Google Maps API n°2
 
 ## CSS
 
