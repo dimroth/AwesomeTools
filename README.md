@@ -89,6 +89,13 @@ I have gathered this list of links over time, and it is made of resources I have
 ## Typescript
 
 * [React-javascript-to-typescript-transform](https://github.com/lyft/react-javascript-to-typescript-transform) - Convert React JavaScript code to TypeScript with proper typing
+* Monorepo examples
+  * [downwrite](https://github.com/charliewilco/downwrite)
+  * [yarn, nextjs, storybook, typeorm, type-graphql](https://github.com/benawad/monorepo-boilerplate)
+  * [How to build TypeScript mono-repo project with yarn and lerna](https://github.com/Quramy/lerna-yarn-workspaces-example)
+  * [Monorepo starter project for Kotlin, Python, TypeScript x React](https://github.com/palmerhq/monorepo-starter)
+  * [A monorepo example using TypeScript and Next.js](https://github.com/martpie/monorepo-typescript-next-the-sane-way)
+  * [A Fullstack GraphQL Airbnb Clone with React and React Native](https://github.com/benawad/fullstack-graphql-airbnb-clone)
 
 ## Node
 
