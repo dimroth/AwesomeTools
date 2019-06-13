@@ -74,6 +74,10 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Git flight rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
 * [Tell Me When it Closes](https://tellmewhenitcloses.com/) - Get emailed when an issue or PR closes
 
+## Databases (articles and libraries)
+
+* [Postgres hierarchical data](https://coderwall.com/p/whf3-a/hierarchical-data-in-postgres)
+
 ## Javascript
 
 * [Mozilla re-introduction to Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
