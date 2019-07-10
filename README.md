@@ -522,3 +522,11 @@ I have gathered this list of links over time, and it is made of resources I have
 ## Personal achievements
 
 * [React Top 10 Articles of Oct 2017](https://medium.com/@Mybridge/react-top-10-articles-for-the-past-month-v-oct-2017-b9f64eb926ab) - #8
+
+## Emails
+
+* [Tips to improve email campaigns](https://www.campaignmonitor.com/blog/email-marketing/2019/01/improve-your-email-campaigns-with-8-best-practices/)
+* [Same as above](https://moosend.com/blog/email-marketing-best-practices/)
+* [Welcome email best practices](https://sendgrid.com/blog/email-marketing-101-welcome-email/)
+* [🎬 La meilleur arme de growth hacking](https://www.youtube.com/watch?v=Avu77CVwoP8)
+* [🎬 10 secrets pour éviter que vos mails arrivent en spam](https://youtu.be/FduURwZw4Kk)
