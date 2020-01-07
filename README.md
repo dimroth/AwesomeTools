@@ -531,3 +531,13 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Welcome email best practices](https://sendgrid.com/blog/email-marketing-101-welcome-email/)
 * [🎬 La meilleur arme de growth hacking](https://www.youtube.com/watch?v=Avu77CVwoP8)
 * [🎬 10 secrets pour éviter que vos mails arrivent en spam](https://youtu.be/FduURwZw4Kk)
+
+## Growth tools
+
+### Cold mailing / Drip campaigns
+
+* [AutopilotHQ](https://www.autopilothq.com/)
+* [Lemlist](https://lemlist.com/en/home)
+* [Prospect.io](https://prospect.io/)
+* [PersistIQ](https://www.persistiq.com/)
+* [Reply.io](https://reply.io/)
